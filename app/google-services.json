@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519027437316",
+    "project_id": "chat-75dd7",
+    "storage_bucket": "chat-75dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519027437316:android:c3428a86babc9da3c9ea51",
+        "android_client_info": {
+          "package_name": "com.jhoander.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519027437316-b52k7cj41hlgtjl05kpn1v2obpjq01bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnivD2QKZQ6PsAp8GWlDV9XxC48NLw15w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519027437316-b52k7cj41hlgtjl05kpn1v2obpjq01bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
